@@ -1,0 +1,59 @@
+@charset "utf-8";
+
+html {
+   font-size: 100%;
+   font-family: Geneva;
+   background: linear-gradient(to bottom, pink, white);
+   font-size: 12px;
+}
+
+ body {
+	color: gray;
+	margin: 0;
+	font-size: 1.2em;
+	line-height: 1.5em;
+	text-align: center;
+}
+
+h1, h2 {
+	
+   	color: white;
+	
+}
+
+.html5{
+
+  border: solid, black;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  background-color: blue;
+  color: black;
+ }
+
+.html5:hover {
+  background-color: white;
+  color: gray;
+}
+
+
+.css{
+  border: solid, black;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  background-color: yellow;
+  color: black;
+	
+}
+
+.css:hover {
+  background-color: gray;
+  color: white;
+}
